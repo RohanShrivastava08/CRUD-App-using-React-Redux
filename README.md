@@ -1,6 +1,6 @@
 # 📊 CRUD App using React, Redux, and Vite
 
-- Welcome to the CRUD App made using React & Redux!
+- Welcome to the CRUD App made using React & Redux with Vite!
 - This project is a web application built with React and Redux, utilizing Vite for bundling and development.
 - The app allows users to perform Create, Read, Update, and Delete operations, specifically tailored for managing game records.
 
